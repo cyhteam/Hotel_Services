@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>22E434AA-1F53-4FB4-B0CC-2AF8B20D3A06</string>
+	<key>IDESourceControlProjectName</key>
+	<string>CYH_HotelServices</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>7EB310F374ECFDA987941782BC638AF1FF3C5FBC</key>
+		<string>https://github.com/cyhteam/Hotel_Services.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>CYH_HotelServices.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>7EB310F374ECFDA987941782BC638AF1FF3C5FBC</key>
+		<string>..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/cyhteam/Hotel_Services.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>7EB310F374ECFDA987941782BC638AF1FF3C5FBC</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>7EB310F374ECFDA987941782BC638AF1FF3C5FBC</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Hotel_Services</string>
+		</dict>
+	</array>
+</dict>
+</plist>
